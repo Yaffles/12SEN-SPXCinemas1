@@ -1,0 +1,12 @@
+
+files/directories:   kebab-case
+
+classes:            PascalCase
+
+functions:          camelCase
+
+variables:          snake_case
+
+constants:          SCREAMING_SNAKE_CASE
+
+sql columns:        camelCase

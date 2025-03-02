@@ -1,0 +1,24 @@
+
+Login
+
+0   Successful
+1   Invalid username
+2   Invalid password
+9   Generic error
+
+Logout
+
+0   Success
+
+Save
+
+0   Success
+1   Failed update
+2   Failed add
+9   Generic error
+
+Delete
+
+0   Success
+2   Failed delete
+9   Generic error
